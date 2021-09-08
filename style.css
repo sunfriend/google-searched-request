@@ -146,3 +146,32 @@ nav i{
     background: white;
     box-shadow: 0 0 3px 3px rgba(0, 0, 0, .2);
 }
+
+.cite {
+margin-bottom: 8px;
+}
+
+.span-bold {
+    font-weight: bold;
+}
+
+.section-block {
+    margin-top: 10px;
+    margin-left: 180px;
+    margin-bottom: 30px;
+    max-width: 60rem;
+}
+
+.search-result {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+h3 {
+    color: blue;
+    font-size: 1.2rem;
+}
+
+article p{
+    margin: 6px 0;
+}
