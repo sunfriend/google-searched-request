@@ -1,1 +1,1 @@
-This is the google search page.
+Search request in google.
